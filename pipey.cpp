@@ -1,6 +1,6 @@
 // --------------------------------------------------------------
 // pipey.cpp sends structs with zero-length arrays through a pipe
-// M. Williamsen, Quantum Design, 14 November 2022
+// M. Williamsen, 14 November 2022
 
 #include <sys/types.h>
 #include <unistd.h>
